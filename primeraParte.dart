@@ -2,8 +2,8 @@ void main() {
   //Si el valor nunca cambiara de valor, usar const
   //Si en algun momento requieres cambiar valor, usar final
   //Si la varible, se compromete a asignar un valor despues, usar late
-  const int edad = 10;
-  double temperatura = 18.4;
+  const int edad = 12;
+  double temperatura = 20.4;
   String nombre = "David";
   bool estado = true;
 
