@@ -18,4 +18,8 @@ void main() {
 //Cualquier cosa...
 
   print(fecha);
+
+  for (int i = 0; i >= 3; i++) {
+    print("Numero: ${i}");
+  }
 }
