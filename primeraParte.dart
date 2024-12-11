@@ -4,7 +4,7 @@ void main() {
   //Si la varible, se compromete a asignar un valor despues, usar late
   const int edad = 12;
   double temperatura = 20.4;
-  String nombre = "David";
+  String nombre = "Jovani";
   bool estado = true;
 
   String cualquierCosa = "Permanecer";
